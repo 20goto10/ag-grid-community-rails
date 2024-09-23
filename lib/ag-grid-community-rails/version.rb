@@ -2,7 +2,7 @@ module Ag
   module Grid
     module Community
       module Rails
-        VERSION = "28.1.1.1"
+        VERSION = "32.2.0"
       end
     end
   end
